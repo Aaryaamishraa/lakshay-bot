@@ -1,6 +1,6 @@
 """Lakshay India chatbot — HTTP API.
 
-Author: Pranav Yadav (B.Tech Mathematics & Computing, DTU)
+Author: Arya Mishra (B.Tech, Computer Science)
 
 GET  /v1/healthz   GET /v1/metadata   GET /v1/faq   GET /v1/leads
 POST /v1/context   POST /v1/start     POST /v1/tick   POST /v1/reply   POST /v1/teardown
@@ -56,10 +56,10 @@ async def healthz():
 
 @app.get("/v1/metadata")
 async def metadata():
-    members = [m.strip() for m in os.getenv("TEAM_MEMBERS", "Pranav Yadav").split(",") if m.strip()]
+    members = [m.strip() for m in os.getenv("TEAM_MEMBERS", "Arya Mishra").split(",") if m.strip()]
     return {
-        "bot_name": "Pranav Yadav DTU Lakshay India Chatbot",
-        "team_name": os.getenv("TEAM_NAME", "Pranav Yadav (DTU)"),
+        "bot_name": "Arya Mishra Lakshay India Chatbot",
+        "team_name": os.getenv("TEAM_NAME", "Arya Mishra"),
         "team_members": members,
         "model": llm.model_label(),
         "approach": ("FAQ knowledge base (20 Lakshay India answers, English + Hinglish) with keyword/overlap matching so every "
@@ -67,7 +67,7 @@ async def metadata():
                      "into a short counselling-request flow that only asks for missing details, hostile/off-topic handling, "
                      "per-turn Hinglish detection and a polite goodbye; proactive openers for enquiries, reminders and "
                      "follow-ups; optional LLM fallback validated against the FAQ."),
-        "contact_email": os.getenv("CONTACT_EMAIL", "pranavyadav9004@gmail.com"),
+        "contact_email": os.getenv("CONTACT_EMAIL", ""),
         "version": "1.0.0",
     }
 

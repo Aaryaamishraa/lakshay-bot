@@ -8,10 +8,10 @@ services:
     healthCheckPath: /v1/healthz
     envVars:
       - key: TEAM_NAME
-        value: Pranav Yadav (DTU)
+        value: Arya Mishra
       - key: TEAM_MEMBERS
-        value: Pranav Yadav
+        value: Arya Mishra
       - key: CONTACT_EMAIL
-        value: pranavyadav9004@gmail.com
+        value: 
       - key: ANTHROPIC_API_KEY   # optional — leave unset for the deterministic FAQ matcher
         sync: false
