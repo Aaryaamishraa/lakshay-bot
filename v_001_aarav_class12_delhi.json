@@ -1,0 +1,15 @@
+{
+  "visitor_id": "v_001_aarav_class12_delhi",
+  "identity": {
+    "name": "Aarav",
+    "city": "Delhi",
+    "language_pref": "en"
+  },
+  "stage": "school",
+  "stage_label": "Class 12 student (Science, PCM)",
+  "interests": [
+    "engineering",
+    "data science"
+  ],
+  "source": "website enquiry"
+}

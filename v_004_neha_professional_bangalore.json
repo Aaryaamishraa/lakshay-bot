@@ -1,0 +1,14 @@
+{
+  "visitor_id": "v_004_neha_professional_bangalore",
+  "identity": {
+    "name": "Neha",
+    "city": "Bangalore",
+    "language_pref": "en"
+  },
+  "stage": "working",
+  "stage_label": "Working professional (IT support, 2 years)",
+  "interests": [
+    "product management"
+  ],
+  "source": "website enquiry"
+}

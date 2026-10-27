@@ -1,0 +1,14 @@
+{
+  "visitor_id": "v_002_simran_bcom_chandigarh",
+  "identity": {
+    "name": "Simran",
+    "city": "Chandigarh",
+    "language_pref": "hi"
+  },
+  "stage": "college",
+  "stage_label": "B.Com 2nd year student",
+  "interests": [
+    "finance"
+  ],
+  "source": "website enquiry"
+}

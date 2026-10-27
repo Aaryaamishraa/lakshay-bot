@@ -1,0 +1,11 @@
+{
+  "id": "trg_001_welcome_aarav",
+  "kind": "new_visitor_welcome",
+  "visitor_id": "v_001_aarav_class12_delhi",
+  "urgency": 2,
+  "payload": {
+    "channel": "website chat"
+  },
+  "suppression_key": "welcome:v_001",
+  "expires_at": "2026-12-31T23:59:59Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "trg_006_career_explorer_kabir",
+  "kind": "career_explorer",
+  "visitor_id": "v_006_kabir_class10_mumbai",
+  "urgency": 3,
+  "payload": {},
+  "suppression_key": "explorer:v_006:2026-10",
+  "expires_at": "2026-11-30T23:59:59Z"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "trg_005_parent_enquiry_sunita",
+  "kind": "parent_enquiry",
+  "visitor_id": "v_005_sunita_parent_jaipur",
+  "urgency": 4,
+  "payload": {
+    "enquiry_date": "2026-10-26",
+    "enquiry_text": "Ishita ke liye Science ya Commerce?"
+  },
+  "suppression_key": "parent:v_005:2026-10-26",
+  "expires_at": "2026-11-09T23:59:59Z"
+}

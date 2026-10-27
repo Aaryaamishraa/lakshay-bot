@@ -1,0 +1,11 @@
+{
+  "id": "trg_007_welcome_neha",
+  "kind": "new_visitor_welcome",
+  "visitor_id": "v_004_neha_professional_bangalore",
+  "urgency": 1,
+  "payload": {
+    "channel": "WhatsApp"
+  },
+  "suppression_key": "welcome:v_004",
+  "expires_at": "2026-12-31T23:59:59Z"
+}

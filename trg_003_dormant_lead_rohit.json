@@ -1,0 +1,12 @@
+{
+  "id": "trg_003_dormant_lead_rohit",
+  "kind": "dormant_lead",
+  "visitor_id": "v_003_rohit_graduate_lucknow",
+  "urgency": 2,
+  "payload": {
+    "enquiry_date": "2026-09-20",
+    "days_since_enquiry": 37
+  },
+  "suppression_key": "dormant:v_003:2026-10",
+  "expires_at": "2026-11-30T23:59:59Z"
+}

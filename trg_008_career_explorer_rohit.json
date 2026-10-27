@@ -1,0 +1,9 @@
+{
+  "id": "trg_008_career_explorer_rohit",
+  "kind": "career_explorer",
+  "visitor_id": "v_003_rohit_graduate_lucknow",
+  "urgency": 3,
+  "payload": {},
+  "suppression_key": "explorer:v_003:2026-10",
+  "expires_at": "2026-11-30T23:59:59Z"
+}

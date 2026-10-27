@@ -1,0 +1,12 @@
+{
+  "id": "trg_004_session_reminder_neha",
+  "kind": "session_reminder",
+  "visitor_id": "v_004_neha_professional_bangalore",
+  "urgency": 5,
+  "payload": {
+    "session_iso": "2026-10-29T18:30:00+05:30",
+    "mode": "online"
+  },
+  "suppression_key": "reminder:v_004:2026-10-29",
+  "expires_at": "2026-10-29T18:30:00+05:30"
+}

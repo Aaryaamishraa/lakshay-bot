@@ -1,0 +1,12 @@
+{
+  "id": "trg_002_enquiry_followup_simran",
+  "kind": "enquiry_followup",
+  "visitor_id": "v_002_simran_bcom_chandigarh",
+  "urgency": 4,
+  "payload": {
+    "enquiry_date": "2026-10-25",
+    "enquiry_text": "CA ya MBA — kya choose karun?"
+  },
+  "suppression_key": "enquiry:v_002:2026-10-25",
+  "expires_at": "2026-11-08T23:59:59Z"
+}
