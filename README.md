@@ -1,8 +1,8 @@
-# Pranav Yadav DTU Lakshay India Chatbot
+# Lakshay India Chatbot
 
 A WhatsApp-style career counselling assistant for **Lakshay India**. It answers visitors' questions from Lakshay India's official FAQ (20 questions across 5 sections), in English or Hinglish, and turns a "yes" into a counselling request for the team — asking only for details it doesn't already have. It also handles "not now", off-topic asks, auto-replies, frustration and "stop", and closes every chat politely.
 
-**Built by Pranav Yadav** — B.Tech, Mathematics & Computing, Delhi Technological University (DTU).
+**Built by Arya Mishra** — B.Tech, Computer Science
 
 ## Try it
 Open the base URL in a browser for the chat page: pick a visitor and a starting point (welcome, enquiry follow-up, parent enquiry, session reminder…), see the opening message, then reply as the visitor. "All 20 questions" lets you ask any FAQ in one tap; "Requests sent to team" shows what the bot handed over.
